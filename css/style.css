@@ -1,0 +1,27 @@
+.mybigheading{ 
+	color:white;
+	font-size: 80px;
+	text-align: center;
+	font-family: 'Playball', cursive;
+
+ }
+
+ .custom-social-links{
+ 	text-align: center;
+ }
+
+ .custom-bottom-margin{
+ 	margin-bottom: 20px;
+ }
+
+ body{
+ 	background-color: #b3edfe;
+ }
+
+.custom-top-margin{
+	margin-top: 30px;
+}
+.custom-font{
+	font-family: 'Petit Formal Script', cursive;
+
+}
